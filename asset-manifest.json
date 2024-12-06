@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.12160191.css",
-    "main.js": "/static/js/main.e87db716.js",
-    "static/js/488.4db22ef0.chunk.js": "/static/js/488.4db22ef0.chunk.js",
-    "static/media/old-middle-earth-map.png": "/static/media/old-middle-earth-map.1dc4cc495b9e056e8d54.png",
-    "static/media/frodo-and-sam.png": "/static/media/frodo-and-sam.5b1a7d861cf268d58bdc.png",
-    "static/media/mordor.png": "/static/media/mordor.a95576c2b94fa656088b.png",
-    "static/media/RingbearerMedium.ttf": "/static/media/RingbearerMedium.81688da96bd2ba917e09.ttf",
-    "static/media/tor_mtg.jpg": "/static/media/tor_mtg.0272c0011b3ac1e2fb32.jpg",
-    "index.html": "/index.html",
-    "main.12160191.css.map": "/static/css/main.12160191.css.map",
-    "main.e87db716.js.map": "/static/js/main.e87db716.js.map",
-    "488.4db22ef0.chunk.js.map": "/static/js/488.4db22ef0.chunk.js.map"
+    "main.css": "/bandr/static/css/main.dc1c18e1.css",
+    "main.js": "/bandr/static/js/main.00bbbc9f.js",
+    "static/js/488.4db22ef0.chunk.js": "/bandr/static/js/488.4db22ef0.chunk.js",
+    "static/media/old-middle-earth-map.png": "/bandr/static/media/old-middle-earth-map.1dc4cc495b9e056e8d54.png",
+    "static/media/frodo-and-sam.png": "/bandr/static/media/frodo-and-sam.5b1a7d861cf268d58bdc.png",
+    "static/media/mordor.png": "/bandr/static/media/mordor.a95576c2b94fa656088b.png",
+    "static/media/RingbearerMedium.ttf": "/bandr/static/media/RingbearerMedium.81688da96bd2ba917e09.ttf",
+    "static/media/tor_mtg.jpg": "/bandr/static/media/tor_mtg.0272c0011b3ac1e2fb32.jpg",
+    "index.html": "/bandr/index.html",
+    "main.dc1c18e1.css.map": "/bandr/static/css/main.dc1c18e1.css.map",
+    "main.00bbbc9f.js.map": "/bandr/static/js/main.00bbbc9f.js.map",
+    "488.4db22ef0.chunk.js.map": "/bandr/static/js/488.4db22ef0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12160191.css",
-    "static/js/main.e87db716.js"
+    "static/css/main.dc1c18e1.css",
+    "static/js/main.00bbbc9f.js"
   ]
 }
