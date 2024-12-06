@@ -1,0 +1,75 @@
+/*
+.progress-container {
+    position: relative;
+    text-align: center;
+    margin: 50px auto;
+    width: 80%;
+}*/
+
+.progress-container {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    height: 33%;
+    margin: 50px auto;
+}
+
+
+.icon-image {
+    width: 100px;
+    border-radius: 2px;
+}
+
+
+.frodo-and-sam {
+    z-index: 99;
+    position: absolute;
+    top: -45px;
+    transform: translateX(-50%);
+    animation: rock 4s ease-in-out infinite;
+}
+
+.mordor {
+    z-index: 99;
+    position: absolute;
+    top: -55px;
+    right: 0;
+    transform: translateX(-50%);
+    margin-top: 20px;
+}
+
+
+.progress-bar {
+    margin: 2rem;
+    height: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 2px;
+    border: 2px solid white;
+    position: relative;
+}
+
+.progress-fill {
+    height: 100%;
+    background-color: gold;
+    border-radius: 2px;
+    transition: width 0.5s ease-in-out;
+}
+
+@keyframes rock {
+    0% {
+        transform: translate(-50%, 0) rotate(-2deg);
+    }
+    25% {
+        transform: translate(-48%, -5px) rotate(1deg);
+    }
+    50% {
+        transform: translate(-50%, -10px) rotate(2deg);
+    }
+    75% {
+        transform: translate(-52%, -5px) rotate(1deg);
+    }
+    100% {
+        transform: translate(-50%, 0) rotate(-2deg);
+    }
+}
