@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bandr/static/css/main.acf2f24f.css",
-    "main.js": "/bandr/static/js/main.8f5c3b93.js",
+    "main.js": "/bandr/static/js/main.f4e01684.js",
     "static/js/488.4db22ef0.chunk.js": "/bandr/static/js/488.4db22ef0.chunk.js",
     "static/media/old-middle-earth-map.png": "/bandr/static/media/old-middle-earth-map.1dc4cc495b9e056e8d54.png",
     "static/media/starry-night.png": "/bandr/static/media/starry-night.9f3b251dccc0d2227392.png",
@@ -12,11 +12,11 @@
     "static/media/tor_mtg.jpg": "/bandr/static/media/tor_mtg.0272c0011b3ac1e2fb32.jpg",
     "index.html": "/bandr/index.html",
     "main.acf2f24f.css.map": "/bandr/static/css/main.acf2f24f.css.map",
-    "main.8f5c3b93.js.map": "/bandr/static/js/main.8f5c3b93.js.map",
+    "main.f4e01684.js.map": "/bandr/static/js/main.f4e01684.js.map",
     "488.4db22ef0.chunk.js.map": "/bandr/static/js/488.4db22ef0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acf2f24f.css",
-    "static/js/main.8f5c3b93.js"
+    "static/js/main.f4e01684.js"
   ]
 }
